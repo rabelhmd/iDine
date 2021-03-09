@@ -1,3 +1,5 @@
 # iDine
 A project to learn swift ui
-![](Screenshots/menuList.png)
+
+### Menu List View
+![](https://github.com/rabelhmd/iDine/blob/main/iDine/Screenshots/menuList.png)
