@@ -1,5 +1,5 @@
 # iDine
-A project to learn swift ui
+A project to learn swift ui inspired by https://www.hackingwithswift.com/about
 
 
 ### Menu List View
